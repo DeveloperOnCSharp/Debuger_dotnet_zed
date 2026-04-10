@@ -1,0 +1,10 @@
+[
+  {
+    "adapter": "netcoredbg",
+    "label": "Launch .NET Core App",
+    "request": "launch",
+    "program": "${ZED_WORKTREE_ROOT}\\bin\\Debug\\net10.0\\ZED_TEST.dll",
+    "cwd": "${ZED_WORKTREE_ROOT}",
+    "preLaunchTask": "build",
+  },
+]
