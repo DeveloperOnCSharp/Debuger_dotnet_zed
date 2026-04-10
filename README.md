@@ -14,4 +14,5 @@
 `   cargo build --release`
 
 
-5. В корне нашего проекта создать файл .zed и добавить 2 json-файла
+5. В Zed перейти в Extensions => Install dev extensions и выбрать папку zed-netcoredbg
+6. В корне нашего проекта создать файл .zed и добавить 2 json-файла
